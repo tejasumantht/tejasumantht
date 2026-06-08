@@ -33,10 +33,6 @@ class TejaSumanth:
                     and secure complex systems."""
 ```
 
-Cybersecurity enthusiast with hands-on experience in network security, security automation, penetration testing, and threat analysis.
-
-🎓 Incoming M.Sc. Cybersecurity Student @ Paderborn University, Germany
-
 
 ### 🔍 Interests & Focus Areas
 
