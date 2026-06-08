@@ -1,8 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           GITHUB PROFILE README — Teja Sumanth Tadikonda      -->
-<!--        Update placeholders marked with [YOUR_...] as needed   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <!-- ── ANIMATED TYPING BANNER ── -->
