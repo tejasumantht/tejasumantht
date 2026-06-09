@@ -186,23 +186,6 @@ class TejaSumanth:
 ```
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tejasumantht&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasumantht&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tejasumantht&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-
 ---
 
 ## 🤝 Open to Collaborate On
